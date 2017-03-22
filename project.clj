@@ -1,6 +1,6 @@
 (def appengine-version "1.9.48")
 
-(defproject gaeclj-pq "0.1.0"
+(defproject gaeclj-pq "0.1.2"
   :description "Clojure helpers for using the push queue API in Google App Engine"
   :license {:name "Eclipse Public License - v 1.0"
             :url "http://www.eclipse.org/legal/epl-v10.html"

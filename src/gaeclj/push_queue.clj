@@ -1,5 +1,5 @@
 (ns gaeclj.push-queue
-  (:require [gaeclj.util :refer [try-with-default name?]])
+  (:require [gaeclj.pqutil :refer [try-with-default name?]])
   (:import [com.google.appengine.api.taskqueue 
             Queue 
             QueueFactory 
