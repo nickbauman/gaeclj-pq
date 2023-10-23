@@ -1,6 +1,6 @@
 # gaeclj-pq
 
-[![Clojars Project](https://img.shields.io/clojars/v/gaeclj-ds.svg)](https://clojars.org/gaeclj-pq)
+[![Clojars Project](https://img.shields.io/clojars/v/gaeclj-pq.svg)](https://clojars.org/gaeclj-pq)
 
 Clojure support for Google App Engine's push queue API
 
