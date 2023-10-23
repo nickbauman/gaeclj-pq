@@ -2,12 +2,7 @@
 (:import [com.google.appengine.tools.development.testing 
           LocalServiceTestConfig 
           LocalServiceTestHelper
-          LocalFileServiceTestConfig 
-          LocalDatastoreServiceTestConfig
-          LocalTaskQueueTestConfig
-          LocalAppIdentityServiceTestConfig
-          LocalBlobstoreServiceTestConfig])
-(:require [clojure.java.io :as io])
+          LocalTaskQueueTestConfig])
 (:use clojure.test))
 
 (defn- queue-config []
